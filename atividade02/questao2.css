@@ -1,0 +1,17 @@
+nav a {
+  display: inline-block;
+  width: 20vw;
+  background-color: blue;
+  color: white;
+  border-radius: 8px;
+}
+
+section div {
+  display: inline-block;
+  width: 45%;
+  margin: 5%;
+  background-color: yellow;
+  color: blue;
+  border: 1px solid black;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
