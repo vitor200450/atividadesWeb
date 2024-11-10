@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  padding: 20px 0;
+}
+
+main p {
+  display: inline;
+  background-color: green;
+  color: #fff;
+  border-radius: 8px;
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+}
+
+header,
+footer {
+  background-color: blue;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
